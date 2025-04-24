@@ -1,0 +1,10 @@
+C:\Users\Büşra Ağtaş\Desktop\Proje Klasör ve Classlarını Listbox'da Gösterme\ProjeClasslariGostermeListbox\ProjeClasslariGostermeListbox\bin\Debug\ProjeClasslariGostermeListbox.exe.config
+C:\Users\Büşra Ağtaş\Desktop\Proje Klasör ve Classlarını Listbox'da Gösterme\ProjeClasslariGostermeListbox\ProjeClasslariGostermeListbox\bin\Debug\ProjeClasslariGostermeListbox.exe
+C:\Users\Büşra Ağtaş\Desktop\Proje Klasör ve Classlarını Listbox'da Gösterme\ProjeClasslariGostermeListbox\ProjeClasslariGostermeListbox\bin\Debug\ProjeClasslariGostermeListbox.pdb
+C:\Users\Büşra Ağtaş\Desktop\Proje Klasör ve Classlarını Listbox'da Gösterme\ProjeClasslariGostermeListbox\ProjeClasslariGostermeListbox\obj\Debug\ProjeClasslariGostermeListbox.csproj.AssemblyReference.cache
+C:\Users\Büşra Ağtaş\Desktop\Proje Klasör ve Classlarını Listbox'da Gösterme\ProjeClasslariGostermeListbox\ProjeClasslariGostermeListbox\obj\Debug\ProjeClasslariGostermeListbox.Form1.resources
+C:\Users\Büşra Ağtaş\Desktop\Proje Klasör ve Classlarını Listbox'da Gösterme\ProjeClasslariGostermeListbox\ProjeClasslariGostermeListbox\obj\Debug\ProjeClasslariGostermeListbox.Properties.Resources.resources
+C:\Users\Büşra Ağtaş\Desktop\Proje Klasör ve Classlarını Listbox'da Gösterme\ProjeClasslariGostermeListbox\ProjeClasslariGostermeListbox\obj\Debug\ProjeClasslariGostermeListbox.csproj.GenerateResource.cache
+C:\Users\Büşra Ağtaş\Desktop\Proje Klasör ve Classlarını Listbox'da Gösterme\ProjeClasslariGostermeListbox\ProjeClasslariGostermeListbox\obj\Debug\ProjeClasslariGostermeListbox.csproj.CoreCompileInputs.cache
+C:\Users\Büşra Ağtaş\Desktop\Proje Klasör ve Classlarını Listbox'da Gösterme\ProjeClasslariGostermeListbox\ProjeClasslariGostermeListbox\obj\Debug\ProjeClasslariGostermeListbox.exe
+C:\Users\Büşra Ağtaş\Desktop\Proje Klasör ve Classlarını Listbox'da Gösterme\ProjeClasslariGostermeListbox\ProjeClasslariGostermeListbox\obj\Debug\ProjeClasslariGostermeListbox.pdb
